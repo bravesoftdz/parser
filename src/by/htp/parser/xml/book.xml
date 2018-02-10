@@ -1,0 +1,509 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="book.xsd" generated="2018-02-09T13:47:27">
+	<book>
+		<ID>88</ID>
+		<BRIEF>Божественная комедия</BRIEF>
+		<PUBLISH_YEAR>1321</PUBLISH_YEAR>
+		<AUTHOR>Данте Алигьери</AUTHOR>
+	</book>
+	<book>
+		<ID>89</ID>
+		<BRIEF>Сказки</BRIEF>
+		<PUBLISH_YEAR>1837</PUBLISH_YEAR>
+		<AUTHOR>Ханс Кристиан Андерсен</AUTHOR>
+	</book>
+	<book>
+		<ID>90</ID>
+		<BRIEF>И пришло разрушение</BRIEF>
+		<PUBLISH_YEAR>1958</PUBLISH_YEAR>
+		<AUTHOR>Чинуа Ачебе</AUTHOR>
+	</book>
+	<book>
+		<ID>91</ID>
+		<BRIEF>Отец Горио</BRIEF>
+		<PUBLISH_YEAR>1835</PUBLISH_YEAR>
+		<AUTHOR>Оноре де Бальзак</AUTHOR>
+	</book>
+	<book>
+		<ID>92</ID>
+		<BRIEF>Трилогия (Моллой, Мэлон умирает, Безымянный)</BRIEF>
+		<PUBLISH_YEAR>1953</PUBLISH_YEAR>
+		<AUTHOR>Сэмюэл Беккет</AUTHOR>
+	</book>
+	<book>
+		<ID>93</ID>
+		<BRIEF>Декамерон</BRIEF>
+		<PUBLISH_YEAR>1353</PUBLISH_YEAR>
+		<AUTHOR>Джованни Боккаччо</AUTHOR>
+	</book>
+	<book>
+		<ID>94</ID>
+		<BRIEF>Вымыслы</BRIEF>
+		<PUBLISH_YEAR>1986</PUBLISH_YEAR>
+		<AUTHOR>Хорхе Луис Борхес</AUTHOR>
+	</book>
+	<book>
+		<ID>95</ID>
+		<BRIEF>Грозовой перевал</BRIEF>
+		<PUBLISH_YEAR>1847</PUBLISH_YEAR>
+		<AUTHOR>Эмили Бронте</AUTHOR>
+	</book>
+	<book>
+		<ID>96</ID>
+		<BRIEF>Миссис Дэллоуэй</BRIEF>
+		<PUBLISH_YEAR>1925</PUBLISH_YEAR>
+		<AUTHOR>Вирджиния Вулф</AUTHOR>
+	</book>
+	<book>
+		<ID>97</ID>
+		<BRIEF>На маяк</BRIEF>
+		<PUBLISH_YEAR>1927</PUBLISH_YEAR>
+		<AUTHOR>Вирджиния Вулф</AUTHOR>
+	</book>
+	<book>
+		<ID>98</ID>
+		<BRIEF>Голод</BRIEF>
+		<PUBLISH_YEAR>1890</PUBLISH_YEAR>
+		<AUTHOR>Кнут Гамсун</AUTHOR>
+	</book>
+	<book>
+		<ID>99</ID>
+		<BRIEF>Цыганское романсеро</BRIEF>
+		<PUBLISH_YEAR>1928</PUBLISH_YEAR>
+		<AUTHOR>Федерико Гарсиа Лорка</AUTHOR>
+	</book>
+	<book>
+		<ID>100</ID>
+		<BRIEF>Сто лет одиночества</BRIEF>
+		<PUBLISH_YEAR>1967</PUBLISH_YEAR>
+		<AUTHOR>Габриэль Гарсиа Маркес</AUTHOR>
+	</book>
+	<book>
+		<ID>101</ID>
+		<BRIEF>Любовь во время чумы</BRIEF>
+		<PUBLISH_YEAR>1985</PUBLISH_YEAR>
+		<AUTHOR>Габриэль Гарсиа Маркес</AUTHOR>
+	</book>
+	<book>
+		<ID>102</ID>
+		<BRIEF>Фауст</BRIEF>
+		<PUBLISH_YEAR>1832</PUBLISH_YEAR>
+		<AUTHOR>Иоганн Вольфганг фон Гёте</AUTHOR>
+	</book>
+	<book>
+		<ID>103</ID>
+		<BRIEF>Тропы по большому сертану</BRIEF>
+		<PUBLISH_YEAR>1956</PUBLISH_YEAR>
+		<AUTHOR>Жуан Гимарайнс Роза</AUTHOR>
+	</book>
+	<book>
+		<ID>104</ID>
+		<BRIEF>Мёртвые души</BRIEF>
+		<PUBLISH_YEAR>1842</PUBLISH_YEAR>
+		<AUTHOR>Николай Васильевич Гоголь</AUTHOR>
+	</book>
+	<book>
+		<ID>105</ID>
+		<BRIEF>Жестяной барабан</BRIEF>
+		<PUBLISH_YEAR>1959</PUBLISH_YEAR>
+		<AUTHOR>Гюнтер Грасс</AUTHOR>
+	</book>
+	<book>
+		<ID>106</ID>
+		<BRIEF>Берлин Александрплац</BRIEF>
+		<PUBLISH_YEAR>1929</PUBLISH_YEAR>
+		<AUTHOR>Альфред Дёблин</AUTHOR>
+	</book>
+	<book>
+		<ID>107</ID>
+		<BRIEF>Улисс</BRIEF>
+		<PUBLISH_YEAR>1922</PUBLISH_YEAR>
+		<AUTHOR>Джеймс Джойс</AUTHOR>
+	</book>
+	<book>
+		<ID>108</ID>
+		<BRIEF>Жак-фаталист и его хозяин</BRIEF>
+		<PUBLISH_YEAR>1796</PUBLISH_YEAR>
+		<AUTHOR>Дени Дидро</AUTHOR>
+	</book>
+	<book>
+		<ID>109</ID>
+		<BRIEF>Большие надежды</BRIEF>
+		<PUBLISH_YEAR>1861</PUBLISH_YEAR>
+		<AUTHOR>Чарльз Диккенс</AUTHOR>
+	</book>
+	<book>
+		<ID>110</ID>
+		<BRIEF>Преступление и наказание</BRIEF>
+		<PUBLISH_YEAR>1866</PUBLISH_YEAR>
+		<AUTHOR>Фёдор Достоевский</AUTHOR>
+	</book>
+	<book>
+		<ID>111</ID>
+		<BRIEF>Идиот</BRIEF>
+		<PUBLISH_YEAR>1869</PUBLISH_YEAR>
+		<AUTHOR>Фёдор Достоевский</AUTHOR>
+	</book>
+	<book>
+		<ID>112</ID>
+		<BRIEF>Бесы</BRIEF>
+		<PUBLISH_YEAR>1872</PUBLISH_YEAR>
+		<AUTHOR>Фёдор Достоевский</AUTHOR>
+	</book>
+	<book>
+		<ID>113</ID>
+		<BRIEF>Братья Карамазовы</BRIEF>
+		<PUBLISH_YEAR>1880</PUBLISH_YEAR>
+		<AUTHOR>Фёдор Достоевский</AUTHOR>
+	</book>
+	<book>
+		<ID>114</ID>
+		<BRIEF>Самопознание Дзено</BRIEF>
+		<PUBLISH_YEAR>1923</PUBLISH_YEAR>
+		<AUTHOR>Итало Звево</AUTHOR>
+	</book>
+	<book>
+		<ID>115</ID>
+		<BRIEF>Кукольный дом</BRIEF>
+		<PUBLISH_YEAR>1879</PUBLISH_YEAR>
+		<AUTHOR>Генрик Ибсен</AUTHOR>
+	</book>
+	<book>
+		<ID>116</ID>
+		<BRIEF>Стон горы</BRIEF>
+		<PUBLISH_YEAR>1954</PUBLISH_YEAR>
+		<AUTHOR>Ясунари Кавабата</AUTHOR>
+	</book>
+	<book>
+		<ID>117</ID>
+		<BRIEF>Невероятные похождения Алексиса Зорбаса</BRIEF>
+		<PUBLISH_YEAR>1946</PUBLISH_YEAR>
+		<AUTHOR>Никос Казандзакис</AUTHOR>
+	</book>
+	<book>
+		<ID>118</ID>
+		<BRIEF>Посторонний</BRIEF>
+		<PUBLISH_YEAR>1942</PUBLISH_YEAR>
+		<AUTHOR>Альбер Камю</AUTHOR>
+	</book>
+	<book>
+		<ID>119</ID>
+		<BRIEF>Рассказы</BRIEF>
+		<PUBLISH_YEAR>1924</PUBLISH_YEAR>
+		<AUTHOR>Франц Кафка</AUTHOR>
+	</book>
+	<book>
+		<ID>120</ID>
+		<BRIEF>Процесс</BRIEF>
+		<PUBLISH_YEAR>1925</PUBLISH_YEAR>
+		<AUTHOR>Франц Кафка</AUTHOR>
+	</book>
+	<book>
+		<ID>121</ID>
+		<BRIEF>За́мок</BRIEF>
+		<PUBLISH_YEAR>1926</PUBLISH_YEAR>
+		<AUTHOR>Франц Кафка</AUTHOR>
+	</book>
+	<book>
+		<ID>122</ID>
+		<BRIEF>Ностромо</BRIEF>
+		<PUBLISH_YEAR>1904</PUBLISH_YEAR>
+		<AUTHOR>Джозеф Конрад</AUTHOR>
+	</book>
+	<book>
+		<ID>123</ID>
+		<BRIEF>Самостоятельные люди</BRIEF>
+		<PUBLISH_YEAR>1935</PUBLISH_YEAR>
+		<AUTHOR>Халлдор Кильян Лакснесс</AUTHOR>
+	</book>
+	<book>
+		<ID>124</ID>
+		<BRIEF>Стихи</BRIEF>
+		<PUBLISH_YEAR>1818</PUBLISH_YEAR>
+		<AUTHOR>Джакомо Леопарди</AUTHOR>
+	</book>
+	<book>
+		<ID>125</ID>
+		<BRIEF>Золотая тетрадь</BRIEF>
+		<PUBLISH_YEAR>1962</PUBLISH_YEAR>
+		<AUTHOR>Дорис Лессинг</AUTHOR>
+	</book>
+	<book>
+		<ID>126</ID>
+		<BRIEF>Пеппи Длинныйчулок</BRIEF>
+		<PUBLISH_YEAR>1945</PUBLISH_YEAR>
+		<AUTHOR>Астрид Линдгрен</AUTHOR>
+	</book>
+	<book>
+		<ID>127</ID>
+		<BRIEF>Сыновья и любовники</BRIEF>
+		<PUBLISH_YEAR>1913</PUBLISH_YEAR>
+		<AUTHOR>Дэвид Герберт Лоуренс</AUTHOR>
+	</book>
+	<book>
+		<ID>128</ID>
+		<BRIEF>Записки сумасшедшего</BRIEF>
+		<PUBLISH_YEAR>1918</PUBLISH_YEAR>
+		<AUTHOR>Лу Синь</AUTHOR>
+	</book>
+	<book>
+		<ID>129</ID>
+		<BRIEF>Будденброки</BRIEF>
+		<PUBLISH_YEAR>1901</PUBLISH_YEAR>
+		<AUTHOR>Томас Манн</AUTHOR>
+	</book>
+	<book>
+		<ID>130</ID>
+		<BRIEF>Волшебная гора</BRIEF>
+		<PUBLISH_YEAR>1924</PUBLISH_YEAR>
+		<AUTHOR>Томас Манн</AUTHOR>
+	</book>
+	<book>
+		<ID>131</ID>
+		<BRIEF>Предания нашей улицы</BRIEF>
+		<PUBLISH_YEAR>1959</PUBLISH_YEAR>
+		<AUTHOR>Нагиб Махфуз</AUTHOR>
+	</book>
+	<book>
+		<ID>132</ID>
+		<BRIEF>Моби Дик</BRIEF>
+		<PUBLISH_YEAR>1851</PUBLISH_YEAR>
+		<AUTHOR>Герман Мелвилл</AUTHOR>
+	</book>
+	<book>
+		<ID>133</ID>
+		<BRIEF>Опыты</BRIEF>
+		<PUBLISH_YEAR>1595</PUBLISH_YEAR>
+		<AUTHOR>Мишель де Монтень</AUTHOR>
+	</book>
+	<book>
+		<ID>134</ID>
+		<BRIEF>История</BRIEF>
+		<PUBLISH_YEAR>1974</PUBLISH_YEAR>
+		<AUTHOR>Эльза Моранте</AUTHOR>
+	</book>
+	<book>
+		<ID>135</ID>
+		<BRIEF>Возлюбленная</BRIEF>
+		<PUBLISH_YEAR>1987</PUBLISH_YEAR>
+		<AUTHOR>Тони Моррисон</AUTHOR>
+	</book>
+	<book>
+		<ID>136</ID>
+		<BRIEF>Человек без свойств</BRIEF>
+		<PUBLISH_YEAR>1932</PUBLISH_YEAR>
+		<AUTHOR>Роберт Музиль</AUTHOR>
+	</book>
+	<book>
+		<ID>137</ID>
+		<BRIEF>Лолита</BRIEF>
+		<PUBLISH_YEAR>1955</PUBLISH_YEAR>
+		<AUTHOR>Владимир Набоков</AUTHOR>
+	</book>
+	<book>
+		<ID>138</ID>
+		<BRIEF>Книга непокоя</BRIEF>
+		<PUBLISH_YEAR>1928</PUBLISH_YEAR>
+		<AUTHOR>Фернандо Пессоа</AUTHOR>
+	</book>
+	<book>
+		<ID>139</ID>
+		<BRIEF>В поисках утраченного времени</BRIEF>
+		<PUBLISH_YEAR>1927</PUBLISH_YEAR>
+		<AUTHOR>Марсель Пруст</AUTHOR>
+	</book>
+	<book>
+		<ID>140</ID>
+		<BRIEF>Гаргантюа и Пантагрюэль</BRIEF>
+		<PUBLISH_YEAR>1534</PUBLISH_YEAR>
+		<AUTHOR>Франсуа Рабле</AUTHOR>
+	</book>
+	<book>
+		<ID>141</ID>
+		<BRIEF>Педро Парамо</BRIEF>
+		<PUBLISH_YEAR>1955</PUBLISH_YEAR>
+		<AUTHOR>Хуан Рульфо</AUTHOR>
+	</book>
+	<book>
+		<ID>142</ID>
+		<BRIEF>Маснави</BRIEF>
+		<PUBLISH_YEAR>1273</PUBLISH_YEAR>
+		<AUTHOR>Джалаладдин Руми</AUTHOR>
+	</book>
+	<book>
+		<ID>143</ID>
+		<BRIEF>Дети полуночи</BRIEF>
+		<PUBLISH_YEAR>1981</PUBLISH_YEAR>
+		<AUTHOR>Салман Рушди</AUTHOR>
+	</book>
+	<book>
+		<ID>144</ID>
+		<BRIEF>Гордость и предубеждение</BRIEF>
+		<PUBLISH_YEAR>1813</PUBLISH_YEAR>
+		<AUTHOR>Джейн Остин</AUTHOR>
+	</book>
+	<book>
+		<ID>145</ID>
+		<BRIEF>Бустан</BRIEF>
+		<PUBLISH_YEAR>1257</PUBLISH_YEAR>
+		<AUTHOR>Саади</AUTHOR>
+	</book>
+	<book>
+		<ID>146</ID>
+		<BRIEF>Сезон паломничества на Север</BRIEF>
+		<PUBLISH_YEAR>1966</PUBLISH_YEAR>
+		<AUTHOR>Тайиб Салих</AUTHOR>
+	</book>
+	<book>
+		<ID>147</ID>
+		<BRIEF>Слепота</BRIEF>
+		<PUBLISH_YEAR>1995</PUBLISH_YEAR>
+		<AUTHOR>Жозе Сарамаго</AUTHOR>
+	</book>
+	<book>
+		<ID>148</ID>
+		<BRIEF>Путешествия Гулливера</BRIEF>
+		<PUBLISH_YEAR>1726</PUBLISH_YEAR>
+		<AUTHOR>Джонатан Свифт</AUTHOR>
+	</book>
+	<book>
+		<ID>149</ID>
+		<BRIEF>Путешествие на край ночи</BRIEF>
+		<PUBLISH_YEAR>1932</PUBLISH_YEAR>
+		<AUTHOR>Луи-Фердинанд Селин</AUTHOR>
+	</book>
+	<book>
+		<ID>150</ID>
+		<BRIEF>Хитроумный идальго Дон Кихот Ламанчский</BRIEF>
+		<PUBLISH_YEAR>1615</PUBLISH_YEAR>
+		<AUTHOR>Мигель де Сервантес</AUTHOR>
+	</book>
+	<book>
+		<ID>151</ID>
+		<BRIEF>Красное и чёрное</BRIEF>
+		<PUBLISH_YEAR>1830</PUBLISH_YEAR>
+		<AUTHOR>Стендаль</AUTHOR>
+	</book>
+	<book>
+		<ID>152</ID>
+		<BRIEF>Жизнь и мнения Тристрама Шенди, джентльмена</BRIEF>
+		<PUBLISH_YEAR>1760</PUBLISH_YEAR>
+		<AUTHOR>Лоренс Стерн</AUTHOR>
+	</book>
+	<book>
+		<ID>153</ID>
+		<BRIEF>Приключения Гекльберри Финна</BRIEF>
+		<PUBLISH_YEAR>1884</PUBLISH_YEAR>
+		<AUTHOR>Марк Твен</AUTHOR>
+	</book>
+	<book>
+		<ID>154</ID>
+		<BRIEF>Анна Каренина</BRIEF>
+		<PUBLISH_YEAR>1877</PUBLISH_YEAR>
+		<AUTHOR>Лев Толстой</AUTHOR>
+	</book>
+	<book>
+		<ID>155</ID>
+		<BRIEF>Смерть Ивана Ильича</BRIEF>
+		<PUBLISH_YEAR>1886</PUBLISH_YEAR>
+		<AUTHOR>Лев Толстой</AUTHOR>
+	</book>
+	<book>
+		<ID>156</ID>
+		<BRIEF>Листья травы</BRIEF>
+		<PUBLISH_YEAR>1855</PUBLISH_YEAR>
+		<AUTHOR>Уолт Уитмен</AUTHOR>
+	</book>
+	<book>
+		<ID>157</ID>
+		<BRIEF>Госпожа Бовари</BRIEF>
+		<PUBLISH_YEAR>1857</PUBLISH_YEAR>
+		<AUTHOR>Гюстав Флобер</AUTHOR>
+	</book>
+	<book>
+		<ID>158</ID>
+		<BRIEF>Воспитание чувств</BRIEF>
+		<PUBLISH_YEAR>1869</PUBLISH_YEAR>
+		<AUTHOR>Гюстав Флобер</AUTHOR>
+	</book>
+	<book>
+		<ID>159</ID>
+		<BRIEF>Авессалом, Авессалом!</BRIEF>
+		<PUBLISH_YEAR>1936</PUBLISH_YEAR>
+		<AUTHOR>Уильям Фолкнер</AUTHOR>
+	</book>
+	<book>
+		<ID>160</ID>
+		<BRIEF>Шум и ярость</BRIEF>
+		<PUBLISH_YEAR>1929</PUBLISH_YEAR>
+		<AUTHOR>Уильям Фолкнер</AUTHOR>
+	</book>
+	<book>
+		<ID>161</ID>
+		<BRIEF>Старик и море</BRIEF>
+		<PUBLISH_YEAR>1952</PUBLISH_YEAR>
+		<AUTHOR>Эрнест Хемингуэй</AUTHOR>
+	</book>
+	<book>
+		<ID>162</ID>
+		<BRIEF>Стихотворения</BRIEF>
+		<PUBLISH_YEAR>1952</PUBLISH_YEAR>
+		<AUTHOR>Пауль Целан</AUTHOR>
+	</book>
+	<book>
+		<ID>163</ID>
+		<BRIEF>Рассказы</BRIEF>
+		<PUBLISH_YEAR>1886</PUBLISH_YEAR>
+		<AUTHOR>Антон Чехов</AUTHOR>
+	</book>
+	<book>
+		<ID>164</ID>
+		<BRIEF>Гамлет</BRIEF>
+		<PUBLISH_YEAR>1603</PUBLISH_YEAR>
+		<AUTHOR>Уильям Шекспир</AUTHOR>
+	</book>
+	<book>
+		<ID>165</ID>
+		<BRIEF>Король Лир</BRIEF>
+		<PUBLISH_YEAR>1608</PUBLISH_YEAR>
+		<AUTHOR>Уильям Шекспир</AUTHOR>
+	</book>
+	<book>
+		<ID>166</ID>
+		<BRIEF>Отелло</BRIEF>
+		<PUBLISH_YEAR>1609</PUBLISH_YEAR>
+		<AUTHOR>Уильям Шекспир</AUTHOR>
+	</book>
+	<book>
+		<ID>167</ID>
+		<BRIEF>Мидлмарч</BRIEF>
+		<PUBLISH_YEAR>1871</PUBLISH_YEAR>
+		<AUTHOR>Джордж Элиот</AUTHOR>
+	</book>
+	<book>
+		<ID>168</ID>
+		<BRIEF>Человек-невидимка</BRIEF>
+		<PUBLISH_YEAR>1952</PUBLISH_YEAR>
+		<AUTHOR>Ральф Эллисон</AUTHOR>
+	</book>
+	<book>
+		<ID>169</ID>
+		<BRIEF>Воспоминания Адриана</BRIEF>
+		<PUBLISH_YEAR>1951</PUBLISH_YEAR>
+		<AUTHOR>Маргерит Юрсенар</AUTHOR>
+	</book>
+	<book>
+		<ID>170</ID>
+		<BRIEF>ТЕСТ НАИМЕНОВАНИЯ КНИГИ-2</BRIEF>
+		<PUBLISH_YEAR>2002</PUBLISH_YEAR>
+		<AUTHOR>ТЕСТ АВТОРА КНИГИ-2</AUTHOR>
+	</book>
+	<book>
+		<ID>171</ID>
+		<BRIEF>ТЕСТ НАИМЕНОВАНИЯ КНИГИ</BRIEF>
+		<PUBLISH_YEAR>2000</PUBLISH_YEAR>
+		<AUTHOR>ТЕСТ АВТОРА КНИГИ</AUTHOR>
+	</book>
+</dataroot>
